@@ -1,5 +1,5 @@
 # Google-playstore-app-ratings-prediction
 
-![map](https://github.com/venkatesh2309/Google-playstore-app-ratings-prediction/tree/main/mapimg/mapupdate.jpeg?raw=True)
+![map](https://github.com/venkatesh2309/Google-playstore-app-ratings-prediction/tree/main/mapimg/mapupdate.jpg?raw=True)
 
 ## OBJECTIVE:
