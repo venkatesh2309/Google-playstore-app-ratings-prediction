@@ -1,5 +1,5 @@
 # Google-playstore-app-ratings-prediction
 
-![](https://github.com/venkatesh2309/Google-playstore-app-ratings-prediction/tree/main/mapimg/summa12.png?raw=true)
+![a](https://drive.google.com/file/d/1iKHX2i-M2Az6w_s9cW76pPuRFGIrg6Pd/view?usp=sharing)
 
 ## OBJECTIVE:
