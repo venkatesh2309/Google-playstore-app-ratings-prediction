@@ -1,4 +1,4 @@
-trained_model = "Playstore_app_prediction.pkl"
+trained_model = "model.pkl"
 factors_codes =  "factors_codes.json"
 
 
