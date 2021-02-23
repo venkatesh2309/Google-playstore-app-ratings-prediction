@@ -13,7 +13,7 @@
 
 
 
-![map](/mapimg/map2.png)
+![map](/mapimg/summa12.png)
 
 
 
