@@ -28,4 +28,4 @@ Predict the Ratings of the google play store application.
 
 
 ## DEMO:
-[![Demo video](/mapimg/playstore.mp4)]
+[![Demo video](/mapimg/playstore.gif)]
