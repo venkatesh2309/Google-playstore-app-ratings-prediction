@@ -32,6 +32,7 @@ Predict the Ratings of the google play store application.
 
 
 |Deployed in  AWS EC2 instance |Prerequisite: |
+|---|---|
 1. Putty
 2. Putty gen
 3. Aws account
