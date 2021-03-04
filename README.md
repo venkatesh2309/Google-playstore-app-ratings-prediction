@@ -28,4 +28,5 @@ Predict the Ratings of the google play store application.
 
 
 ## DEMO:
-![Demo video](/mapimg/playstore.gif width=20 height=20)
+![Demo video](/mapimg/playstore.gif)
+<img src="/mapimg/playstore.gif" width="25" height="25"/>
