@@ -31,7 +31,7 @@ Predict the Ratings of the google play store application.
 <img src="/mapimg/playstore.gif" width="450" height="300"/>
 
 
-## Deployed in  AWS EC2 instance >> Prerequisite:
+|Deployed in  AWS EC2 instance| |Prerequisite:|
 1. Putty
 2. Putty gen
 3. Aws account
