@@ -1,3 +1,4 @@
+FROM continuumio/anaconda3:4.4.0
 COPY . /home/venkat/
 EXPOSE 5000
 WORKDIR /home/venkat/
